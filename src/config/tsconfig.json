@@ -3,262 +3,262 @@
     {
       "name": "2_clubs",
       "value": 2,
-      "img": "/src/cards/2_clubs.png"
+      "img": "/my-first-react/src/cards/2_clubs.png"
     },
     {
       "name": "2_diamonds",
       "value": 2,
-      "img": "/src/cards/2_diamonds.png"
+      "img": "/my-first-react/src/cards/2_diamonds.png"
     },
     {
       "name": "2_hearts",
       "value": 2,
-      "img": "/src/cards/2_hearts.png"
+      "img": "/my-first-react/src/cards/2_hearts.png"
     },
     {
       "name": "2_spades",
       "value": 2,
-      "img": "/src/cards/2_spades.png"
+      "img": "/my-first-react/src/cards/2_spades.png"
     },
     {
       "name": "3_clubs",
       "value": 3,
-      "img": "/src/cards/3_clubs.png"
+      "img": "/my-first-react/src/cards/3_clubs.png"
     },
     {
       "name": "3_diamonds",
       "value": 3,
-      "img": "/src/cards/3_diamonds.png"
+      "img": "/my-first-react/src/cards/3_diamonds.png"
     },
     {
       "name": "3_hearts",
       "value": 3,
-      "img": "/src/cards/3_hearts.png"
+      "img": "/my-first-react/src/cards/3_hearts.png"
     },
     {
       "name": "3_spades",
       "value": 3,
-      "img": "/src/cards/3_spades.png"
+      "img": "/my-first-react/src/cards/3_spades.png"
     },
     {
       "name": "4_clubs",
       "value": 4,
-      "img": "/src/cards/4_clubs.png"
+      "img": "/my-first-react/src/cards/4_clubs.png"
     },
     {
       "name": "4_diamonds",
       "value": 4,
-      "img": "/src/cards/4_diamonds.png"
+      "img": "/my-first-react/src/cards/4_diamonds.png"
     },
     {
       "name": "4_hearts",
       "value": 4,
-      "img": "/src/cards/4_hearts.png"
+      "img": "/my-first-react/src/cards/4_hearts.png"
     },
     {
       "name": "4_spades",
       "value": 4,
-      "img": "/src/cards/4_spades.png"
+      "img": "/my-first-react/src/cards/4_spades.png"
     },
     {
       "name": "5_clubs",
       "value": 5,
-      "img": "/src/cards/5_clubs.png"
+      "img": "/my-first-react/src/cards/5_clubs.png"
     },
     {
       "name": "5_diamonds",
       "value": 5,
-      "img": "/src/cards/5_diamonds.png"
+      "img": "/my-first-react/src/cards/5_diamonds.png"
     },
     {
       "name": "5_hearts",
       "value": 5,
-      "img": "/src/cards/5_hearts.png"
+      "img": "/my-first-react/src/cards/5_hearts.png"
     },
     {
       "name": "5_spades",
       "value": 5,
-      "img": "/src/cards/5_spades.png"
+      "img": "/my-first-react/src/cards/5_spades.png"
     },
     {
       "name": "6_clubs",
       "value": 6,
-      "img": "/src/cards/6_clubs.png"
+      "img": "/my-first-react/src/cards/6_clubs.png"
     },
     {
       "name": "6_diamonds",
       "value": 6,
-      "img": "/src/cards/6_diamonds.png"
+      "img": "/my-first-react/src/cards/6_diamonds.png"
     },
     {
       "name": "6_hearts",
       "value": 6,
-      "img": "/src/cards/6_hearts.png"
+      "img": "/my-first-react/src/cards/6_hearts.png"
     },
     {
       "name": "6_spades",
       "value": 6,
-      "img": "/src/cards/6_spades.png"
+      "img": "/my-first-react/src/cards/6_spades.png"
     },
     {
       "name": "7_clubs",
       "value": 7,
-      "img": "/src/cards/7_clubs.png"
+      "img": "/my-first-react/src/cards/7_clubs.png"
     },
     {
       "name": "7_diamonds",
       "value": 7,
-      "img": "/src/cards/7_diamonds.png"
+      "img": "/my-first-react/src/cards/7_diamonds.png"
     },
     {
       "name": "7_hearts",
       "value": 7,
-      "img": "/src/cards/7_hearts.png"
+      "img": "/my-first-react/src/cards/7_hearts.png"
     },
     {
       "name": "7_spades",
       "value": 7,
-      "img": "/src/cards/7_spades.png"
+      "img": "/my-first-react/src/cards/7_spades.png"
     },
     {
       "name": "8_clubs",
       "value": 8,
-      "img": "/src/cards/8_clubs.png"
+      "img": "/my-first-react/src/cards/8_clubs.png"
     },
     {
       "name": "8_diamonds",
       "value": 8,
-      "img": "/src/cards/8_diamonds.png"
+      "img": "/my-first-react/src/cards/8_diamonds.png"
     },
     {
       "name": "8_hearts",
       "value": 8,
-      "img": "/src/cards/8_hearts.png"
+      "img": "/my-first-react/src/cards/8_hearts.png"
     },
     {
       "name": "8_spades",
       "value": 8,
-      "img": "/src/cards/8_spades.png"
+      "img": "/my-first-react/src/cards/8_spades.png"
     },
     {
       "name": "9_clubs",
       "value": 9,
-      "img": "/src/cards/9_clubs.png"
+      "img": "/my-first-react/src/cards/9_clubs.png"
     },
     {
       "name": "9_diamonds",
       "value": 9,
-      "img": "/src/cards/9_diamonds.png"
+      "img": "/my-first-react/src/cards/9_diamonds.png"
     },
     {
       "name": "9_hearts",
       "value": 9,
-      "img": "/src/cards/9_hearts.png"
+      "img": "/my-first-react/src/cards/9_hearts.png"
     },
     {
       "name": "9_spades",
       "value": 9,
-      "img": "/src/cards/9_spades.png"
+      "img": "/my-first-react/src/cards/9_spades.png"
     },
     {
     "name": "10_clubs",
     "value": 10,
-    "img": "/src/cards/10_clubs.png"
+    "img": "/my-first-react/src/cards/10_clubs.png"
     },
     {
       "name": "10_diamonds",
       "value": 10,
-      "img": "/src/cards/10_diamonds.png"
+      "img": "/my-first-react/src/cards/10_diamonds.png"
     },
     {
       "name": "10_hearts",
       "value": 10,
-      "img": "/src/cards/10_hearts.png"
+      "img": "/my-first-react/src/cards/10_hearts.png"
     },
     {
       "name": "10_spades",
       "value": 10,
-      "img": "/src/cards/10_spades.png"
+      "img": "/my-first-react/src/cards/10_spades.png"
     },
     {
       "name": "jack_of_clubs",
       "value": 11,
-      "img": "/src/cards/jack_of_clubs.png"
+      "img": "/my-first-react/src/cards/jack_of_clubs.png"
     },
     {
       "name": "jack_of_diamonds",
       "value": 11,
-      "img": "/src/cards/jack_of_diamonds.png"
+      "img": "/my-first-react/src/cards/jack_of_diamonds.png"
     },
     {
       "name": "jack_of_hearts",
       "value": 11,
-      "img": "/src/cards/jack_of_hearts.png"
+      "img": "/my-first-react/src/cards/jack_of_hearts.png"
     },
     {
       "name": "jack_of_spades",
       "value": 11,
-      "img": "/src/cards/jack_of_spades.png"
+      "img": "/my-first-react/src/cards/jack_of_spades.png"
     },
     {
       "name": "queen_of_clubs",
       "value": 12,
-      "img": "/src/cards/queen_of_clubs.png"
+      "img": "/my-first-react/src/cards/queen_of_clubs.png"
     },
     {
       "name": "queen_of_diamonds",
       "value": 12,
-      "img": "/src/cards/queen_of_diamonds.png"
+      "img": "/my-first-react/src/cards/queen_of_diamonds.png"
     },
     {
       "name": "queen_of_hearts",
       "value": 12,
-      "img": "/src/cards/queen_of_hearts.png"
+      "img": "/my-first-react/src/cards/queen_of_hearts.png"
     },
     {
       "name": "queen_of_spades",
       "value": 12,
-      "img": "/src/cards/queen_of_spades.png"
+      "img": "/my-first-react/src/cards/queen_of_spades.png"
     },
     {
       "name": "king_of_clubs",
       "value": 13,
-      "img": "/src/cards/king_of_clubs.png"
+      "img": "/my-first-react/src/cards/king_of_clubs.png"
     },
     {
       "name": "king_of_diamonds",
       "value": 13,
-      "img": "/src/cards/king_of_diamonds.png"
+      "img": "/my-first-react/src/cards/king_of_diamonds.png"
     },
     {
       "name": "king_of_hearts",
       "value": 13,
-      "img": "/src/cards/king_of_hearts.png"
+      "img": "/my-first-react/src/cards/king_of_hearts.png"
     },
     {
       "name": "king_of_spades",
       "value": 13,
-      "img": "/src/cards/king_of_spades.png"
+      "img": "/my-first-react/src/cards/king_of_spades.png"
     },
     {
       "name": "ace_of_clubs",
       "value": 14,
-      "img": "/src/cards/ace_of_clubs.png"
+      "img": "/my-first-react/src/cards/ace_of_clubs.png"
     },
     {
       "name": "ace_of_diamonds",
       "value": 14,
-      "img": "/src/cards/ace_of_diamonds.png"
+      "img": "/my-first-react/src/cards/ace_of_diamonds.png"
     },
     {
       "name": "ace_of_hearts",
       "value": 14,
-      "img": "/src/cards/ace_of_hearts.png"
+      "img": "/my-first-react/src/cards/ace_of_hearts.png"
     },
     {
       "name": "ace_of_spades",
       "value": 14,
-      "img": "/src/cards/ace_of_spades.png"
+      "img": "/my-first-react/src/cards/ace_of_spades.png"
     }
   ]
 }

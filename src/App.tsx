@@ -6,7 +6,7 @@ type State = {
     name: string,
 }
 
-class App extends Component<never, State> {
+class App extends Component<{},State> {
     state: State = {
         name: '',
     }
