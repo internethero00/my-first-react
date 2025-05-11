@@ -1,4 +1,4 @@
-import info_cards from "../src/config/tsconfig.json"
+import info_cards from "./config/cards.json"
 
 export type card_item = {
     name: string,

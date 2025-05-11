@@ -80,10 +80,10 @@ class Game extends React.Component<Props, State> {
                     <div>
                         <p className={"enemy_name"}>COMPUTER</p>
                         {this.state.enemyCard?.img && (
-                            <img className={"enemy_card"} src={this.state.enemyCard!.img} alt={this.state.enemyCard!.name}/>)}
+                            <img className={"enemy_card"} src={`${import.meta.env.BASE_URL}${this.state.enemyCard!.img}`} alt={this.state.enemyCard!.name}/>)}
                     </div>
                     <div>
-                        {this.state.myCard?.img && (<img src={this.state.myCard!.img} alt={this.state.myCard!.name}/>)}
+                        {this.state.myCard?.img && (<img src={`${import.meta.env.BASE_URL}${this.state.myCard!.img}`} alt={this.state.myCard!.name}/>)}
                         <p className={"my_name"}>{this.props.myName.toUpperCase()}</p>
 
                     </div>
